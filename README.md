@@ -1,14 +1,12 @@
 <div align="center">
-
 <img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=youngjr0527" width="270" height="130">
   
-## ⛅️ Kim Youngjun ⛅️ 
+### ⛅️ Kim Youngjun ⛅️ 
 
   🎓 서울시립대학교 기계정보공학과
     <br>
   🏫 Bachelor Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
   📖I'm learning Edge Deep Learning, Embedded System <br>
-  💭 Also 𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝖾𝖽 𝖨𝗇 𝖠WS, Continual learning<br>
   💻 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [Notion Blog](https://www.notion.so/Note-5c1f9df962424d219a0385913e7bc8d5)
   <br>
  
