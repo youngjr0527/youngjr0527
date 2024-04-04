@@ -13,8 +13,7 @@
 
 <div align="center">
 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjr0527&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-  
+
   ### 🛠 Studying 🛠
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
