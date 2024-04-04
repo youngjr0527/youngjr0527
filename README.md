@@ -2,7 +2,7 @@
   
 ### ⛅️ Kim Youngjun ⛅️ 
 
-  🎓 서울시립대학교 기계정보공학과
+  🎓 서울시립대학교 기계정보공학과(주전공) & 인공지능학과(복수전공) 졸업
     <br>
   🏫Master Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
   📖I'm learning Edge Deep Learning, Embedded System <br>
