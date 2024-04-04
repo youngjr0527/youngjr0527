@@ -1,11 +1,10 @@
 <div align="center">
-<img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=youngjr0527" width="270" height="130">
   
 ### ⛅️ Kim Youngjun ⛅️ 
 
   🎓 서울시립대학교 기계정보공학과
     <br>
-  🏫Undergraduate Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
+  🏫Master Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
   📖I'm learning Edge Deep Learning, Embedded System <br>
   💻 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [Notion Blog](https://www.notion.so/Note-5c1f9df962424d219a0385913e7bc8d5)
   <br>
@@ -14,7 +13,7 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjr0527&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjr0527&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ### 🛠 Studying 🛠
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
