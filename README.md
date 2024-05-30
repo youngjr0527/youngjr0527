@@ -6,7 +6,7 @@
     <br>
   🏫Master Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
   📖I'm learning Edge Deep Learning, Embedded System <br>
-  💻 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [Notion Blog](https://www.notion.so/Note-5c1f9df962424d219a0385913e7bc8d5)
+  💻 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [Blog](https://youngjr0527.oopy.io/)
   <br>
  
 </div>
