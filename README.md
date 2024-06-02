@@ -4,7 +4,7 @@
 
   🎓 서울시립대학교 기계정보공학과(주전공) & 인공지능학과(복수전공) 졸업
     <br>
-  🏫Master Student in [RTES Lab](https://sites.google.com/view/rteslab/home?authuser=0)   
+  🏫Master Student in [RTES Lab](https://sites.google.com/view/rtes-lab)   
   📖I'm learning Edge Deep Learning, Embedded System <br>
   💻 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [Blog](https://youngjr0527.oopy.io/)
   <br>
